@@ -1,4 +1,4 @@
-#FAQ:
+# FAQ:
 - Q: Will you be able to remake Troop TP?
  - A: No, that is impossible. If you however know a way, please let me know.
 - Q: Why so small updates, and why they take ages?
@@ -19,5 +19,5 @@
 + Automatic Country Picker, probably configurable on the Config. Useful for new servers to prevent noobs from ruling your dream nation. (NY)
 
 
-Current Features:
+### Current Features:
 (cannot be asked to list them right now, will do eventually)
