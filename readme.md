@@ -14,9 +14,9 @@
    - A: To prevent player bans. Has happened before, which wasn't very fun.. :^(
 
 ## Things that I will consider adding in the near future:
-+ Improvised Player / Country Inspector (NY)
-+ A Cool Resource Trading thingamajig that will prevent your nation to go debt and byebye. (NY)
-+ Automatic Country Picker, probably configurable on the Config. Useful for new servers to prevent noobs from ruling your dream nation. (NY)
++ Improvised Player / Country Inspector (added)
++ A Cool Resource Trading thingamajig that will prevent your nation to go debt and byebye. (TBA)
++ Automatic Country Picker, probably configurable on the Config. Useful for new servers to prevent noobs from ruling your dream nation. (TBA)
 
 
 ### Current Features:
