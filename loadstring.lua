@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://cdn.weggle.xyz/file/swagpex_RoN.lua?raw"))()
+loadstring(game:HttpGet("https://cdn.weggle.xyz/uploads/files/swagpex_RoN.lua"))()
